@@ -37,9 +37,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namya-Bhuva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Namya's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namya-Bhuva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  
+[![Namya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namya-Bhuva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Namya-Bhuva)
+<br><br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namya-Bhuva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Namya-Bhuva)
+
 </div>
 
 ---
@@ -57,19 +59,13 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <!-- Update these links with your actual URLs! -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:namyabhuva@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/namya-bhuva-626117282">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-website.com">
+  <a href="https://nmbx-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-<!-- 
-  NOTE: GitHub creates a special profile page when you create a repository 
-  with the EXACT same name as your username (Namya-Bhuva) and add this to the README.md!
--->
