@@ -38,9 +38,9 @@
 
 <div align="center">
   
-[![Namya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namya-Bhuva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Namya-Bhuva)
+[![Namya's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Namya-Bhuva&theme=tokyonight)](https://github.com/Namya-Bhuva)
 <br><br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namya-Bhuva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Namya-Bhuva)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Namya-Bhuva&theme=tokyonight)](https://github.com/Namya-Bhuva)
 
 </div>
 
